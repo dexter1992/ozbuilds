@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>STAND UP 1</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.ds/?mode=tmdb&amp;url=list%2F79699&amp;name=LOL+Standup&amp;iconimage=http%3A%2F%2Fexpose.pw%2Fartwork%2Fmedia%2Flol.png&amp;fanart=http%3A%2F%2Fexpose.pw%2Fartwork%2Fmedia%2Flol.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+</shortcuts>

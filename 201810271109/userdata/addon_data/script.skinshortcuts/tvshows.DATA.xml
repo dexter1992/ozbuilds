@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>4</defaultID>
+		<label>4</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>RunAddon(script.tv.show.next.aired,return)</action>
+		<visible>System.HasAddon(script.tv.show.next.aired)</visible>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>SEARCH MENU</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.Yoda/?action=tvSearch",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>GENRES</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.Yoda/?action=tvGenres",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>WEB CHANNELS</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.loki/?mode=web_channel&amp;url=web_channel%2F1&amp;name=%5BCOLOR+FFffffffff%5DOnline+Channels%5B%2FCOLOR%5D&amp;iconimage=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.loki%5Cicon.png&amp;fanart=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.loki%5Cfanart.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>POPULAR SHOWS</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.loki/?mode=tmdb&amp;url=tv%2Fpopular&amp;name=%5BCOLOR+FFffffffff%5DPopular+TV+Shows%5B%2FCOLOR%5D&amp;iconimage=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.loki%5Cicon.png&amp;fanart=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.loki%5Cfanart.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>CLASSIC SHOWS</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.loki/?mode=get_list&amp;url=http%3A%2F%2Fbuilds.kodiuk.tv%2Fdevelopment%2Floki%2FTV%2520SHOWS%2Fclassictv.xml&amp;name=%5BCOLOR+FFffffffff%5DClassic+TV+Shows%5B%2FCOLOR%5D&amp;iconimage=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.loki%5Cicon.png&amp;fanart=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.loki%5Cfanart.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>MUSIC SHOWS</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.Yoda/?action=tvshows&amp;url=http%3A%2F%2Fwww.imdb.com%2Fsearch%2Ftitle%3Ftitle_type%3Dtv_series%2Cmini_series%26release_date%3D%2Cdate%5B0%5D%26genres%3Dmusic%26sort%3Dmoviemeter%2Casc%26count%3D40%26start%3D1",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>CRIME SHOWS</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.Yoda/?action=tvshows&amp;url=http%3A%2F%2Fwww.imdb.com%2Fsearch%2Ftitle%3Ftitle_type%3Dtv_series%2Cmini_series%26release_date%3D%2Cdate%5B0%5D%26genres%3Dcrime%26sort%3Dmoviemeter%2Casc%26count%3D40%26start%3D1",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>SCI-FI SHOWS</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.ds/?mode=tmdb&amp;url=list%2F80860&amp;name=Sci-fi+TV+Shows&amp;iconimage=http%3A%2F%2Fexpose.pw%2Fartwork%2Fmedia%2Flife.png&amp;fanart=http%3A%2F%2Fexpose.pw%2Fartwork%2Fmedia%2Flife.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>TRU TV SHOWS</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.ds/?mode=tmdb&amp;url=network%2Fshows%2F364&amp;name=Tru+TV&amp;iconimage=http%3A%2F%2Fuk1.site%2Faddons%2Fartwork%2Frealityicon.png&amp;fanart=http%3A%2F%2Fuk1.site%2Faddons%2Fartwork%2Frealityfanart.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>DOCUMENTARIES</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.Yoda/?action=docuHeaven",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>DOCUMENTARIES 2</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.loki/?mode=get_list&amp;url=http%3A%2F%2Fbuilds.kodiuk.tv%2Fdevelopment%2Floki%2FDOCS%2Fmain6.xml&amp;name=%5BCOLOR+FFffffffff%5DDOCUMENTARIES%5B%2FCOLOR%5D&amp;iconimage=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.loki%5Cicon.png&amp;fanart=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.loki%5Cfanart.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>INTERNATIONAL</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.Yoda/?action=tvLanguages",return)</action>
+	</shortcut>
+</shortcuts>

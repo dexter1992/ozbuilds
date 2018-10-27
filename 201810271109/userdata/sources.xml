@@ -1,0 +1,82 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>sup</name>
+            <path pathversion="1">http://supremacy.org.uk/zip/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>uk1</name>
+            <path pathversion="1">http://ukodi1.com/Repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Dia</name>
+            <path pathversion="1">http://repo.rubyjewelwizard.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>kuk</name>
+            <path pathversion="1">http://kodiuk.tv/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>rep</name>
+            <path pathversion="1">http://mullafabz.xyz/Repository/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>man</name>
+            <path pathversion="1">http://kodi.mancavekodi.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>mav</name>
+            <path pathversion="1">http://mavericktv.net/mavrepo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>gen</name>
+            <path pathversion="1">http://gen-tec.co/gentecwiz/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>fspm</name>
+            <path pathversion="1">http://fspmkodi.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>tt</name>
+            <path pathversion="1">http://toptutorialsrepo.co.uk/kodi/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>mr</name>
+            <path pathversion="1">http://mrnumbers.xyz/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>sb</name>
+            <path pathversion="1">http://repo.supremebuilds.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Ex</name>
+            <path pathversion="1">http://redditreaper.tech/repo</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+</sources>

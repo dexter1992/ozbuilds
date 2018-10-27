@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>STAR TREK</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.ds/?mode=tmdb&amp;url=list%2F80862&amp;name=Star+Trek+Movie+Collection&amp;iconimage=http%3A%2F%2Fexpose.pw%2Fartwork%2Fmedia%2Flife.png&amp;fanart=http%3A%2F%2Fexpose.pw%2Fartwork%2Fmedia%2Flife.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>STAR WARS</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.ds/?mode=tmdb&amp;url=list%2F80844&amp;name=Star+Wars+Collection&amp;iconimage=http%3A%2F%2Fexpose.pw%2Fartwork%2Fmedia%2Flife.png&amp;fanart=http%3A%2F%2Fexpose.pw%2Fartwork%2Fmedia%2Flife.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>DC MOVIES</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.ds/?mode=tmdb&amp;url=list%2F80863&amp;name=DC+Movies&amp;iconimage=http%3A%2F%2Fexpose.pw%2Fartwork%2Fmedia%2Flife.png&amp;fanart=http%3A%2F%2Fexpose.pw%2Fartwork%2Fmedia%2Flife.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>MARVELS MOVIES</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.ds/?mode=tmdb&amp;url=list%2F80846&amp;name=Marvel+Movies&amp;iconimage=http%3A%2F%2Fexpose.pw%2Fartwork%2Fmedia%2Flife.png&amp;fanart=http%3A%2F%2Fexpose.pw%2Fartwork%2Fmedia%2Flife.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>TOP 100 ACTORS</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.7of9/?mode=get_list&amp;url=http%3A%2F%2Fm3u.xyz%2Fjen%2F7of9%2Fmovies%2Factors-100.php&amp;name=%5BCOLOR+FFffffffff%5D%5BCOLOR+orange%5DActors+-+Top+100%5B%2FCOLOR%5D%5B%2FCOLOR%5D&amp;iconimage=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.7of9%5Cicon.png&amp;fanart=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.7of9%5Cfanart.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>TOP 100 ACTRESSES</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.7of9/?mode=get_list&amp;url=http%3A%2F%2Fm3u.xyz%2Fjen%2F7of9%2Fmovies%2Factresses-100.php&amp;name=%5BCOLOR+FFffffffff%5D%5BCOLOR+orange%5DActresses+-+Top+100%5B%2FCOLOR%5D%5B%2FCOLOR%5D&amp;iconimage=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.7of9%5Cicon.png&amp;fanart=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.7of9%5Cfanart.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>HIP HOP MOVIES</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.7of9/?mode=imdblists&amp;url=%2Flist%2Fls020559885%2F&amp;name=%5BCOLOR+FFffffffff%5D%5BCOLOR+aqua%5DHip-hop+Movies%5B%2FCOLOR%5D%5B%2FCOLOR%5D&amp;iconimage=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.7of9%5Cicon.png&amp;fanart=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.7of9%5Cfanart.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>PARTY MOVIES</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.7of9/?mode=tmdb&amp;url=keyword%2Fmovies%2F8508&amp;name=%5BCOLOR+FFffffffff%5DParty%5B%2FCOLOR%5D&amp;iconimage=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.7of9%5Cicon.png&amp;fanart=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.7of9%5Cfanart.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>GANGSTER MOVIES</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.ds/?mode=get_list&amp;url=https%3A%2F%2Fteamdna.pw%2FWOW%2F%2FOutlaw%2Fmovies%2F100_Greatest_Gangster_Films_of_All_Time.xml&amp;name=%5BB%5D%5BCOLOR+gold%5DBest+Gangster+Movies%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Cuserdata%5Caddon_data%5Cplugin.video.ds%5Cartcache%5Cgifsicon.gif&amp;fanart=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Cuserdata%5Caddon_data%5Cplugin.video.ds%5Cartcache%5CxT0GqpVryVUCg8tmY8giphy.gif&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>CRIME MOVIES</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.ds/?mode=get_list&amp;url=https%3A%2F%2Fteamdna.pw%2FWOW%2F%2FOutlaw%2Fmovies%2F100_Best_Crime_movies.xml&amp;name=%5BB%5D%5BCOLOR+gold%5DBest+Crime+Movies%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Cuserdata%5Caddon_data%5Cplugin.video.ds%5Cartcache%5Cgifsicon.gif&amp;fanart=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Cuserdata%5Caddon_data%5Cplugin.video.ds%5Cartcache%5CUW1M9T0E36dqgiphy.gif&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>WAR MOVIES</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.ds/?mode=get_list&amp;url=https%3A%2F%2Fteamdna.pw%2FWOW%2F%2FOutlaw%2Fmovies%2F100_Best_War_movies.xml&amp;name=%5BB%5D%5BCOLOR+gold%5DBest+War+Movies%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Cuserdata%5Caddon_data%5Cplugin.video.ds%5Cartcache%5Cbing636683874.gif&amp;fanart=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Cuserdata%5Caddon_data%5Cplugin.video.ds%5Cartcache%5Cj9KYEf8WA1pxCgiphy.gif&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>WESTERN MOVIES</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.ds/?mode=get_list&amp;url=https%3A%2F%2Fteamdna.pw%2FWOW%2F%2FOutlaw%2Fmovies%2Frotten-tomatoes-75-best-western-movies-of-all-time-copy.xml&amp;name=%5BB%5D%5BCOLOR+gold%5DBest+Western+Movies%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Cuserdata%5Caddon_data%5Cplugin.video.ds%5Cartcache%5Cgifsjohn-wayne-gif-8.gif&amp;fanart=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Cuserdata%5Caddon_data%5Cplugin.video.ds%5Cartcache%5CIRfWw6HOhknQsgiphy.gif&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>HORROR MOVIES</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.Yoda/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Fsearch%2Ftitle%3Ftitle_type%3Dfeature%2Ctv_movie%2Cdocumentary%26num_votes%3D100%2C%26release_date%3D%2Cdate%5B0%5D%26genres%3Dhorror%26sort%3Dmoviemeter%2Casc%26count%3D40%26start%3D1",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>BOX SETS</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.themagicdragon/?url=http%3A%2F%2Fsupremacy.org.uk%2Ftombraider%2Fdogsbollocks%2Fboxsets.txt&amp;mode=1&amp;name=%5BB%5D%5BCOLORgreenyellow%5DBoxsets%5B%2FCOLOR%5D%5B%2FB%5D&amp;fanart=https%3A%2F%2Fimages.alphacoders.com%2F791%2Fthumb-1920-79161.jpg",return)</action>
+	</shortcut>
+</shortcuts>

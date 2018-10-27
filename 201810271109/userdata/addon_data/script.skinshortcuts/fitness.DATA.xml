@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>FITNESS ZONE</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.7of9/?mode=get_list&amp;url=http%3A%2F%2Fm3u.xyz%2Fjen%2F7of9%2Fyoutubecinema%2Ffitness%2Fpopsugartvfit.php&amp;name=%5BCOLOR+FFffffffff%5DPOPSUGAR+Fitness%5B%2FCOLOR%5D&amp;iconimage=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4D4sLahnSVM%2Fhqdefault.jpg&amp;fanart=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.7of9%5Cfanart.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>FITNESS PLUS</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.loki/?mode=get_list&amp;url=http%3A%2F%2Fbuilds.kodiuk.tv%2Fdevelopment%2Floki%2Ffitness%2Ffitness.xml&amp;name=%5BCOLOR+FFffffffff%5DFITNESS%5B%2FCOLOR%5D&amp;iconimage=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.loki%5Cicon.png&amp;fanart=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.loki%5Cfanart.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+</shortcuts>

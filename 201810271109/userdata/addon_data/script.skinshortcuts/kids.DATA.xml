@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>KIDS ALL IN 1</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.ds/?mode=get_list&amp;url=https%3A%2F%2Fteamdna.pw%2FWOW%2F%2FPlay%2Fplaymain.xml&amp;name=%5BCOLOR+gold%5D%5BB%5DW%5BCOLOR%5DO%5B%2FCOLOR%5DW+The+Playground%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=https%3A%2F%2Fteamdna.pw%2FWOW%2F%2FARTWORK%2Fplay.png&amp;fanart=https%3A%2F%2Fteamdna.pw%2FWOW%2F%2FARTWORK%2Fplay.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>KIDS MOVIES</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.supremacy/?action=directory&amp;url=http%3A%2F%2Fstephen-builds.uk%2Fsupremacy%2520changeing%2FKid%27s%2520movies.xml&amp;content=addons",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>KIDS BOX SETS</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.MaverickTV/?mode=get_list&amp;url=https%3A%2F%2Fpastebin.com%2Fraw%2FfmUTKku0&amp;name=%5BCOLOR+lime%5D%5BB%5DKids+Movie+Boxsets%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=https%3A%2F%2Fi.imgur.com%2FhzBz7Wk.jpg&amp;fanart=https%3A%2F%2Fi.imgur.com%2FIGcg7tE.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+</shortcuts>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>4K MOVIES 1</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.supremacy/?action=directory&amp;url=http%3A%2F%2Fstephen-builds.uk%2Fsupremacy%2520changeing%2F4kmovies.xml&amp;content=addons",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>4K MOVIES 2</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.MaverickTV/?mode=get_list&amp;url=https%3A%2F%2Fpastebin.com%2Fraw%2FDHHXrThW&amp;name=%5BCOLOR+lime%5D%5BB%5D4K+UHD+Movies%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=https%3A%2F%2Fi.imgur.com%2FhzBz7Wk.jpg&amp;fanart=https%3A%2F%2Fi.imgur.com%2FIGcg7tE.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>4K MOVIES 3</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.themagicdragon/?url=http%3A%2F%2Fsupremacy.org.uk%2Ftombraider%2Fdogsbollocks%2Fuhd.txt&amp;mode=1&amp;name=%5BB%5D%5BI%5D%5BCOLORorange%5D4K+Movies%5B%2FB%5D%5B%2FI%5D%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2Fimages.alphacoders.com%2F791%2Fthumb-1920-79161.jpg",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>4K MOVIES 4</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.AtTheFlix/?mode=get_list&amp;url=https%3A%2F%2Fpastebin.com%2Fraw%2FDHHXrThW&amp;name=%5BCOLOR+red%5D%5BB%5D4K+UHD+Movies%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=https%3A%2F%2Fi.imgur.com%2FOcaHSHO.jpg&amp;fanart=https%3A%2F%2Fi.imgur.com%2FJTwgLfz.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+</shortcuts>

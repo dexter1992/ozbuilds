@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>UFC</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.ufc-finest",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>PPV EVENTS </label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.loki/?mode=get_list&amp;url=http%3A%2F%2Fbuilds.kodiuk.tv%2Fdevelopment%2Floki%2Fboxofficelive.xml&amp;name=%5BCOLOR+FFffffffff%5DLIVE+PPV+EVENTS%5B%2FCOLOR%5D&amp;iconimage=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.loki%5Cicon.png&amp;fanart=C%3A%5CUsers%5Cmichael%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.loki%5Cfanart.jpg&amp;description=No+information+available",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>BOXING</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.replayme/?url=http%3A%2F%2Fbit.ly%2FBOXINGREPLAYER&amp;mode=2&amp;name=%5BCOLOR+green%5D%5BB%5DB%5B%2FB%5D%5B%2FCOLOR%5D%5BCOLOR+white%5D%5BB%5DOXING%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=https%3A%2F%2Fi.imgur.com%2FLIHGP14.jpg",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>SPORTS REPLAYS</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.replaysrus",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>WRESTLING</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.wrestlemaniac",return)</action>
+	</shortcut>
+</shortcuts>
